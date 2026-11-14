@@ -1,0 +1,6 @@
+{
+  "name": "A4 Market",
+  "description": "Kichik do'konlar va ofislar uchun A4 qog'oz yetkazib beruvchilarini taqqoslash, narxlarni dinamik hisoblash va tezkor buyurtma berish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
